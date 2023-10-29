@@ -12,11 +12,17 @@ export class Contact extends React.Component
             Facebook
           </Link>
         </h1>
-        <h1 style={{textDecorationColor:"red"}}>
+        <h2 style={{textDecorationColor:"red"}}>
           <Link to="https://www.youtube.com/@jgadgurushrivallbhacharyaj5603" key="youtube-link">
             YouTube
           </Link>
-        </h1>
+        </h2>
+        <h2 style={{textDecorationColor:"red"}}>
+          <Link to="https://www.google.com/maps/place/Ayodhya,+Uttar+Pradesh/@26.7897692,82.1579681,13z/data=!3m1!4b1!4m6!3m5!1s0x399a07937e6d2823:0x5fc8f683b17f222b!8m2!3d26.7921605!4d82.1997954!16zL20vMGJrcjM?entry=ttu" key="Map-link">
+            Location
+          </Link>
+        </h2>
+        <h1>Contact Number 098269 64486</h1>
       </div>
     );
   }

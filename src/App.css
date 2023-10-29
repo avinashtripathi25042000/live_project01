@@ -34,28 +34,10 @@
   cursor: pointer;
 }
 
-/* Apply styles to the 'Big_box' component */
-.Big_box {
-  background-color: #eee;
-  padding: 20px;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  margin: 20px;
-}
 
-/* Apply styles to the 'Para1', 'Para2', 'Para3', and 'Para4' components */
-.Para1, .Para2, .Para3, .Para4 {
-  font-size: 16px;
-  margin: 10px;
-}
 
-/* Apply styles to the 'Fruit' and 'Car' components */
-.Fruit, .Car {
-  margin-top: 20px;
-  border: 1px solid #ccc;
-  padding: 10px;
-  border-radius: 5px;
-}
+
+
 
 /* Apply styles to the 'Master', 'Home', 'About', and 'Contact' components */
 .Master, .Home, .About, .Contact {
@@ -63,8 +45,9 @@
   padding: 20px;
   border: 1px solid #ccc;
   border-radius: 5px;
-  background-color: #f0f0f0;
+ 
 }
+
 header{
   background-color: rgb(240, 141, 47);
   font-family: cursive;
